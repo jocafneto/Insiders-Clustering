@@ -13,15 +13,15 @@
 
 -  **Ao final**, devem ser apresentados o **relatório** com as respostas das **perguntas de negócio**:
 
-    - Quais são as pessoas elegíveis para participar do programa de fidelidade?
-    - Quantos clientes farão parte do grupo?
-    - Quais as principais características desses clientes?
-    - Qual a porcentagem de contribuição vindo desses insiders?
-    - Qual a expectativa de faturamento para esse grupo nos próximos meses?
-    - Quais as condições para um pessoa ser elegível para o insiders?
-    - Quais as condições para um pessoa ser removida do insiders?
-    - Qual a garantia que o programa de fidelidade é melhor que o restante da base?
-    - Quais as ações o time de marketing pode realizar para aumentar o faturamento?
+    - Quais são as **pessoas elegíveis** para participar do **programa de fidelidade**?
+    - Quantos **clientes** farão parte do **grupo**?
+    - Quais as **principais características** desses **clientes**?
+    - Qual a **porcentagem de contribuição** vindo desses **insiders**?
+    - Qual a **expectativa de faturamento** para esse grupo nos **próximos meses**?
+    - Quais as **condições** para um pessoa ser **elegível** para o **insiders**?
+    - Quais as **condições** para um pessoa ser **removida** do **insiders**?
+    - Qual a **garantia** que o **programa de fidelidade** é **melhor** que o **restante da base de clientes**?
+    - Quais as **ações** o **time de marketing** pode realizar para **aumentar o faturamento**?
 
 ## **Sobre os Dados:**
 
